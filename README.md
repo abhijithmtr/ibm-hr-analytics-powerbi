@@ -4,7 +4,7 @@ You can **copy–paste this directly into GitHub**.
 
 ---
 
-# 👥 IBM HR Analytics Dashboard | Power BI
+# 👥 IBM HR Analytics  | Power BI
 
 ## 📌 Project Overview
 
